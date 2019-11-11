@@ -1,0 +1,13 @@
+C:\Users\Gani\source\repos\FaceBook\FaceBook\bin\Debug\netcoreapp3.0\FaceBook.exe
+C:\Users\Gani\source\repos\FaceBook\FaceBook\obj\Debug\netcoreapp3.0\FaceBook.csprojAssemblyReference.cache
+C:\Users\Gani\source\repos\FaceBook\FaceBook\obj\Debug\netcoreapp3.0\FaceBook.AssemblyInfoInputs.cache
+C:\Users\Gani\source\repos\FaceBook\FaceBook\obj\Debug\netcoreapp3.0\FaceBook.AssemblyInfo.cs
+C:\Users\Gani\source\repos\FaceBook\FaceBook\bin\Debug\netcoreapp3.0\FaceBook.deps.json
+C:\Users\Gani\source\repos\FaceBook\FaceBook\bin\Debug\netcoreapp3.0\FaceBook.runtimeconfig.json
+C:\Users\Gani\source\repos\FaceBook\FaceBook\bin\Debug\netcoreapp3.0\FaceBook.runtimeconfig.dev.json
+C:\Users\Gani\source\repos\FaceBook\FaceBook\bin\Debug\netcoreapp3.0\FaceBook.dll
+C:\Users\Gani\source\repos\FaceBook\FaceBook\bin\Debug\netcoreapp3.0\FaceBook.pdb
+C:\Users\Gani\source\repos\FaceBook\FaceBook\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Gani\source\repos\FaceBook\FaceBook\obj\Debug\netcoreapp3.0\FaceBook.csproj.CopyComplete
+C:\Users\Gani\source\repos\FaceBook\FaceBook\obj\Debug\netcoreapp3.0\FaceBook.dll
+C:\Users\Gani\source\repos\FaceBook\FaceBook\obj\Debug\netcoreapp3.0\FaceBook.pdb
