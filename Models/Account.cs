@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace FaceBook
+namespace FacebookService.Models
 {
     public class Account
     {
@@ -14,22 +15,5 @@ namespace FaceBook
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Gender { get; set; }
-    }
-    public class Posts
-    { 
-        public int Id { get; set; }
-    }
-    public class From
-    {
-        public string name { get; set; }
-        public string id { get; set; }
-    }
-
-    public class RootObject
-    {
-        public string created_time { get; set; }
-        public From from { get; set; }
-        public string message { get; set; }
-        public string id { get; set; }
     }
 }
